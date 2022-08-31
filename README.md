@@ -4,5 +4,5 @@
 <h4>My name is ennio and I am a german boy interested in bits and bytes!
 <hr>
 <h2>Projects</h2>
-<h3><img src="https://i.imgur.com/DLGUlni.png"> I am currently learning Java with the help of my wonderful friends :)</h3>
-  
+<h4><img src="https://i.imgur.com/DLGUlni.png"> I am currently learning Java with the help of my wonderful friends :)</h4>
+<h4><img src="https://i.imgur.com/s3Fpirg.png"> I am a Moderator at LabyMod
